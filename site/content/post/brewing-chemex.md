@@ -1,6 +1,6 @@
 ---
 title: Data analysis
-date: 2017-01-04T21:00:00.000Z
+date: 2017-01-08T21:00:00.000Z
 description: >-
   Brewing with a Chemex probably seems like a complicated, time-consuming
   ordeal, but once you get used to the process, it becomes a soothing ritual
